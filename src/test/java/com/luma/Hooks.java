@@ -1,10 +1,11 @@
 package com.luma;
 
 
+import com.luma.propertyreader.PropertyReader;
+import com.luma.utility.Utility;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
-import uk.co.library.propertyreader.PropertyReader;
-import uk.co.library.utility.Utility;
+
 
 
 /**
